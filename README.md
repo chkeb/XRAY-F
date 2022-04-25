@@ -6,16 +6,19 @@ python3 -m pip install *
 
 
 
-
+使用前要先开启xray然后运行脚本即可
 
 -fofa 通过fofa自定义查询 使用fofa语法即可
+
 -f 导入IP进行批量跑fofa 格式：192.168.0.0
+
 -v 没卵用
+
 -o 输出fofa爬取的url 格式：http[s]://xxx.xxx.xxx
+
 -h 帮助信息
 
 
-使用前要先开启xray然后运行脚本即可
 
 
 推荐食用方法
