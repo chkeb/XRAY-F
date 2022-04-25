@@ -1,6 +1,7 @@
 # XRAY-F
 FOFA联动XRAY
-
+需要安装的库 requests,urllib3,argparse,configparser,base64
+python3 -m pip install *
 -fofa 通过fofa自定义查询 使用fofa语法即可
 -f 导入IP进行批量跑fofa 格式：192.168.0.0
 -v 没卵用
